@@ -6,9 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="Base.DDD">
-      <HintPath>..\..\DDD.Base\bin\Debug\netcoreapp3.1\Base.DDD.dll</HintPath>
-    </Reference>
     <Reference Include="DDD.Base">
       <HintPath>..\DDD.ElectricVehicleRentalLib\bin\Debug\netcoreapp3.1\DDD.Base.dll</HintPath>
     </Reference>
